@@ -180,6 +180,7 @@ export function Navbar({ page, setPage, studentProfile }) {
     }}>
       <div className="container" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: 64 }}>
         <div onClick={() => setPage('landing')} style={{ display: 'flex', alignItems: 'center', gap: 10, cursor: 'pointer' }}>
+          <img src="/logo.png" alt="Code Tandoor Logo" style={{ height: 32 }} />
           <span style={{ fontFamily: 'Syne, sans-serif', fontWeight: 800, fontSize: 18 }}>
             Bridge<span style={{ color: 'var(--accent)' }}>NE</span>
           </span>
