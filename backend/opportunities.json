@@ -8,9 +8,23 @@
     "deadline": "2025-03-15",
     "stipend": "$1200/mo",
     "description": "Work with our product team to build beautiful, responsive web interfaces. You'll collaborate closely with designers and backend engineers to ship features used by thousands of users.",
-    "requiredSkills": ["React", "JavaScript", "CSS", "HTML", "Git"],
-    "niceToHave": ["TypeScript", "Figma", "Redux"],
-    "tags": ["frontend", "web", "startup"]
+    "requiredSkills": [
+      "React",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Git"
+    ],
+    "niceToHave": [
+      "TypeScript",
+      "Figma",
+      "Redux"
+    ],
+    "tags": [
+      "frontend",
+      "web",
+      "startup"
+    ]
   },
   {
     "id": "2",
@@ -21,9 +35,23 @@
     "deadline": "2025-03-20",
     "stipend": "$1800/mo",
     "description": "Join our core engineering team and build end-to-end features across our SaaS platform. Expect real responsibilities and fast-paced growth.",
-    "requiredSkills": ["React", "Node.js", "MongoDB", "REST APIs", "JavaScript"],
-    "niceToHave": ["Docker", "AWS", "GraphQL"],
-    "tags": ["fullstack", "saas", "startup"]
+    "requiredSkills": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "REST APIs",
+      "JavaScript"
+    ],
+    "niceToHave": [
+      "Docker",
+      "AWS",
+      "GraphQL"
+    ],
+    "tags": [
+      "fullstack",
+      "saas",
+      "startup"
+    ]
   },
   {
     "id": "3",
@@ -34,9 +62,23 @@
     "deadline": "2025-04-01",
     "stipend": "$2000/mo",
     "description": "Assist research scientists in training and evaluating large language models. Requires strong math and Python skills.",
-    "requiredSkills": ["Python", "Machine Learning", "TensorFlow", "Linear Algebra", "Statistics"],
-    "niceToHave": ["PyTorch", "NLP", "CUDA"],
-    "tags": ["ai", "ml", "research"]
+    "requiredSkills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "Linear Algebra",
+      "Statistics"
+    ],
+    "niceToHave": [
+      "PyTorch",
+      "NLP",
+      "CUDA"
+    ],
+    "tags": [
+      "ai",
+      "ml",
+      "research"
+    ]
   },
   {
     "id": "4",
@@ -47,9 +89,23 @@
     "deadline": "2025-03-28",
     "stipend": "$1500/mo",
     "description": "Build scalable microservices and APIs for our cloud infrastructure product. Great opportunity to learn distributed systems.",
-    "requiredSkills": ["Node.js", "PostgreSQL", "REST APIs", "Docker", "JavaScript"],
-    "niceToHave": ["Kubernetes", "Redis", "AWS"],
-    "tags": ["backend", "cloud", "infra"]
+    "requiredSkills": [
+      "Node.js",
+      "PostgreSQL",
+      "REST APIs",
+      "Docker",
+      "JavaScript"
+    ],
+    "niceToHave": [
+      "Kubernetes",
+      "Redis",
+      "AWS"
+    ],
+    "tags": [
+      "backend",
+      "cloud",
+      "infra"
+    ]
   },
   {
     "id": "5",
@@ -60,9 +116,22 @@
     "deadline": "2025-03-10",
     "stipend": "$5000 prize pool",
     "description": "48-hour hackathon focused on building AI-powered tools for social good. Open to all students worldwide. Teams of 2-4.",
-    "requiredSkills": ["Python", "JavaScript", "Problem Solving", "Teamwork"],
-    "niceToHave": ["Machine Learning", "React", "APIs"],
-    "tags": ["hackathon", "ai", "competition"]
+    "requiredSkills": [
+      "Python",
+      "JavaScript",
+      "Problem Solving",
+      "Teamwork"
+    ],
+    "niceToHave": [
+      "Machine Learning",
+      "React",
+      "APIs"
+    ],
+    "tags": [
+      "hackathon",
+      "ai",
+      "competition"
+    ]
   },
   {
     "id": "6",
@@ -73,9 +142,23 @@
     "deadline": "2025-04-10",
     "stipend": "$1600/mo",
     "description": "Help us build the next generation of our iOS productivity app used by 500K+ users. You'll write Swift, fix bugs, and ship features in a fast agile cycle.",
-    "requiredSkills": ["Swift", "Xcode", "iOS Development", "Git", "OOP"],
-    "niceToHave": ["SwiftUI", "Firebase", "Figma"],
-    "tags": ["mobile", "ios", "consumer"]
+    "requiredSkills": [
+      "Swift",
+      "Xcode",
+      "iOS Development",
+      "Git",
+      "OOP"
+    ],
+    "niceToHave": [
+      "SwiftUI",
+      "Firebase",
+      "Figma"
+    ],
+    "tags": [
+      "mobile",
+      "ios",
+      "consumer"
+    ]
   },
   {
     "id": "7",
@@ -86,9 +169,23 @@
     "deadline": "2025-03-25",
     "stipend": "$1400/mo",
     "description": "Analyze product data, build dashboards, and develop predictive models to help our clients make smarter business decisions.",
-    "requiredSkills": ["Python", "Pandas", "SQL", "Statistics", "Data Visualization"],
-    "niceToHave": ["Tableau", "Machine Learning", "Spark"],
-    "tags": ["data", "analytics", "bi"]
+    "requiredSkills": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "Statistics",
+      "Data Visualization"
+    ],
+    "niceToHave": [
+      "Tableau",
+      "Machine Learning",
+      "Spark"
+    ],
+    "tags": [
+      "data",
+      "analytics",
+      "bi"
+    ]
   },
   {
     "id": "8",
@@ -99,9 +196,23 @@
     "deadline": "2025-04-05",
     "stipend": "$1700/mo",
     "description": "Work on CI/CD pipelines, infrastructure automation, and monitoring systems. Ideal for students interested in cloud and platform engineering.",
-    "requiredSkills": ["Linux", "Docker", "CI/CD", "Python", "Git"],
-    "niceToHave": ["Kubernetes", "Terraform", "AWS"],
-    "tags": ["devops", "cloud", "infra"]
+    "requiredSkills": [
+      "Linux",
+      "Docker",
+      "CI/CD",
+      "Python",
+      "Git"
+    ],
+    "niceToHave": [
+      "Kubernetes",
+      "Terraform",
+      "AWS"
+    ],
+    "tags": [
+      "devops",
+      "cloud",
+      "infra"
+    ]
   },
   {
     "id": "9",
@@ -112,9 +223,21 @@
     "deadline": "2025-03-18",
     "stipend": "$3000 prize pool",
     "description": "Build decentralized applications on Ethereum or Solana over 72 hours. All levels welcome. Mentors available.",
-    "requiredSkills": ["JavaScript", "Solidity", "Problem Solving"],
-    "niceToHave": ["React", "Ethers.js", "Web3.js"],
-    "tags": ["web3", "blockchain", "hackathon"]
+    "requiredSkills": [
+      "JavaScript",
+      "Solidity",
+      "Problem Solving"
+    ],
+    "niceToHave": [
+      "React",
+      "Ethers.js",
+      "Web3.js"
+    ],
+    "tags": [
+      "web3",
+      "blockchain",
+      "hackathon"
+    ]
   },
   {
     "id": "10",
@@ -125,8 +248,425 @@
     "deadline": "2025-04-15",
     "stipend": "$1300/mo",
     "description": "Create wireframes, prototypes, and final designs for our client projects. Collaborate with engineers to bring your designs to life.",
-    "requiredSkills": ["Figma", "UI/UX Design", "Prototyping", "User Research"],
-    "niceToHave": ["CSS", "HTML", "Adobe XD", "Notion"],
-    "tags": ["design", "ux", "creative"]
+    "requiredSkills": [
+      "Figma",
+      "UI/UX Design",
+      "Prototyping",
+      "User Research"
+    ],
+    "niceToHave": [
+      "CSS",
+      "HTML",
+      "Adobe XD",
+      "Notion"
+    ],
+    "tags": [
+      "design",
+      "ux",
+      "creative"
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Software Engineering Intern - Cloud Infrastructure",
+    "company": "Microsoft",
+    "type": "internship",
+    "location": "Redmond, WA",
+    "deadline": "2024-11-15",
+    "stipend": "$7000/mo",
+    "description": "Join the Azure compute team to help build scalable, reliable cloud infrastructure. You will work on core services that power millions of virtual machines globally, gaining experience with distributed systems.",
+    "requiredSkills": [
+      "C++",
+      "Java",
+      "Python",
+      "Data Structures",
+      "Algorithms"
+    ],
+    "niceToHave": [
+      "Go",
+      "Distributed Systems",
+      "Cloud Platforms (Azure, AWS, GCP)"
+    ],
+    "tags": [
+      "cloud",
+      "backend",
+      "infrastructure"
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Frontend Development Intern",
+    "company": "Stripe",
+    "type": "internship",
+    "location": "San Francisco, CA",
+    "deadline": "2024-10-30",
+    "stipend": "$6500/mo",
+    "description": "Contribute to the user interface of Stripe's developer tools and payment dashboards. You'll work with a modern tech stack to create intuitive and robust user experiences for businesses worldwide.",
+    "requiredSkills": [
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "niceToHave": [
+      "Next.js",
+      "Redux",
+      "UI/UX Design Principles"
+    ],
+    "tags": [
+      "frontend",
+      "webdev",
+      "fintech"
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Machine Learning Research Intern",
+    "company": "Google",
+    "type": "internship",
+    "location": "Mountain View, CA",
+    "deadline": "2024-11-01",
+    "stipend": "$8000/mo",
+    "description": "Work with cutting-edge AI researchers on developing and implementing novel machine learning models. Projects may involve natural language processing, computer vision, or reinforcement learning applications.",
+    "requiredSkills": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "niceToHave": [
+      "C++",
+      "Distributed Training",
+      "Research Publications"
+    ],
+    "tags": [
+      "ai",
+      "machinelearning",
+      "research"
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Data Science Intern - E-commerce Analytics",
+    "company": "Amazon",
+    "type": "internship",
+    "location": "Seattle, WA",
+    "deadline": "2024-10-25",
+    "stipend": "$6000/mo",
+    "description": "Analyze vast datasets to uncover insights into customer behavior and product performance for Amazon Retail. You will develop predictive models and contribute to data-driven decision making.",
+    "requiredSkills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "NumPy",
+      "Statistical Modeling"
+    ],
+    "niceToHave": [
+      "AWS Redshift",
+      "Spark",
+      "A/B Testing"
+    ],
+    "tags": [
+      "data",
+      "analytics",
+      "e-commerce"
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Backend Software Engineer Intern",
+    "company": "Coinbase",
+    "type": "internship",
+    "location": "Remote (US)",
+    "deadline": "2024-11-20",
+    "stipend": "$6800/mo",
+    "description": "Help build and maintain the robust backend services that power Coinbase's cryptocurrency exchange platform. You will work on high-throughput, low-latency systems ensuring secure transactions.",
+    "requiredSkills": [
+      "Go",
+      "Python",
+      "SQL",
+      "API Development",
+      "Distributed Systems"
+    ],
+    "niceToHave": [
+      "Rust",
+      "Kubernetes",
+      "Blockchain Fundamentals"
+    ],
+    "tags": [
+      "backend",
+      "crypto",
+      "fintech"
+    ]
+  },
+  {
+    "id": "16",
+    "title": "Product Design Intern (UI/UX)",
+    "company": "Figma",
+    "type": "internship",
+    "location": "San Francisco, CA",
+    "deadline": "2024-10-15",
+    "stipend": "$5500/mo",
+    "description": "Collaborate with product managers and engineers to craft intuitive and delightful user experiences for Figma's design tools. You'll contribute to wireframing, prototyping, and user research.",
+    "requiredSkills": [
+      "Figma",
+      "Sketch",
+      "Adobe XD",
+      "UI/UX Principles",
+      "User Research"
+    ],
+    "niceToHave": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Interaction Design"
+    ],
+    "tags": [
+      "design",
+      "uiux",
+      "product"
+    ]
+  },
+  {
+    "id": "17",
+    "title": "DevOps / SRE Intern",
+    "company": "Netflix",
+    "type": "internship",
+    "location": "Los Gatos, CA",
+    "deadline": "2024-11-05",
+    "stipend": "$7200/mo",
+    "description": "Join the Site Reliability Engineering team to ensure the scalability and reliability of Netflix's streaming platform. You will work on automation, monitoring, and infrastructure-as-code.",
+    "requiredSkills": [
+      "Python",
+      "Linux",
+      "AWS",
+      "Docker",
+      "Terraform"
+    ],
+    "niceToHave": [
+      "Kubernetes",
+      "Prometheus",
+      "CI/CD"
+    ],
+    "tags": [
+      "devops",
+      "sre",
+      "cloud"
+    ]
+  },
+  {
+    "id": "18",
+    "title": "Cybersecurity Analyst Intern",
+    "company": "Palo Alto Networks",
+    "type": "internship",
+    "location": "Santa Clara, CA",
+    "deadline": "2024-12-01",
+    "stipend": "$45/hr",
+    "description": "Assist in monitoring, detecting, and responding to security incidents within enterprise networks. You will gain hands-on experience with security tools and threat intelligence platforms.",
+    "requiredSkills": [
+      "Network Security",
+      "Linux",
+      "Python (Scripting)",
+      "SIEM Tools",
+      "Vulnerability Assessment"
+    ],
+    "niceToHave": [
+      "Malware Analysis",
+      "Incident Response",
+      "Certifications (CompTIA Security+)"
+    ],
+    "tags": [
+      "security",
+      "cybersecurity",
+      "networking"
+    ]
+  },
+  {
+    "id": "19",
+    "title": "Full Stack Engineer - Startup Intern",
+    "company": "Harvest Health (Local Tech Startup)",
+    "type": "startup-role",
+    "location": "Austin, TX",
+    "deadline": "2024-11-10",
+    "stipend": "$2500/mo",
+    "description": "Be an integral part of a fast-paced health-tech startup, contributing to both frontend and backend development of our innovative platform. You will have a direct impact on product features and architecture.",
+    "requiredSkills": [
+      "React",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "JavaScript"
+    ],
+    "niceToHave": [
+      "AWS",
+      "Docker",
+      "TypeScript",
+      "Agile Methodologies"
+    ],
+    "tags": [
+      "fullstack",
+      "startup",
+      "healthtech"
+    ]
+  },
+  {
+    "id": "20",
+    "title": "Game Development Intern",
+    "company": "Epic Games",
+    "type": "internship",
+    "location": "Cary, NC",
+    "deadline": "2024-11-25",
+    "stipend": "$35/hr",
+    "description": "Join a team working on Unreal Engine or one of Epic's game titles. You'll contribute to various aspects of game development, from programming gameplay mechanics to tool development.",
+    "requiredSkills": [
+      "C++",
+      "Unreal Engine",
+      "Game Design Principles",
+      "Linear Algebra"
+    ],
+    "niceToHave": [
+      "Blueprints",
+      "Unity",
+      "Graphics Programming (OpenGL/DirectX)"
+    ],
+    "tags": [
+      "gamedev",
+      "c++",
+      "gaming"
+    ]
+  },
+  {
+    "id": "21",
+    "title": "Cloud Solutions Architect Intern",
+    "company": "Salesforce",
+    "type": "internship",
+    "location": "San Francisco, CA",
+    "deadline": "2024-10-20",
+    "stipend": "$6200/mo",
+    "description": "Work with experienced architects to design scalable and robust cloud solutions for enterprise clients. You will assist in translating business requirements into technical specifications on the Salesforce platform.",
+    "requiredSkills": [
+      "Cloud Computing Fundamentals",
+      "SQL",
+      "Python",
+      "System Design"
+    ],
+    "niceToHave": [
+      "AWS/Azure/GCP Certifications",
+      "Salesforce Platform Knowledge",
+      "API Integration"
+    ],
+    "tags": [
+      "cloud",
+      "architecture",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "22",
+    "title": "Mobile Development Intern (iOS/Android)",
+    "company": "Meta",
+    "type": "internship",
+    "location": "Menlo Park, CA",
+    "deadline": "2024-11-18",
+    "stipend": "$7500/mo",
+    "description": "Develop features and improve performance for Meta's core mobile applications (Facebook, Instagram, WhatsApp). You will gain experience with large-scale mobile development and user experience.",
+    "requiredSkills": [
+      "Swift/Kotlin",
+      "iOS/Android SDK",
+      "Mobile UI/UX",
+      "APIs"
+    ],
+    "niceToHave": [
+      "React Native",
+      "Flutter",
+      "Performance Optimization"
+    ],
+    "tags": [
+      "mobile",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "23",
+    "title": "Quantum Computing Research Intern",
+    "company": "IBM",
+    "type": "internship",
+    "location": "Yorktown Heights, NY",
+    "deadline": "2024-12-10",
+    "stipend": "$40/hr",
+    "description": "Contribute to cutting-edge research in quantum computing, exploring algorithms, hardware, or software development for quantum systems. You will work with the Qiskit framework and quantum hardware.",
+    "requiredSkills": [
+      "Python",
+      "Linear Algebra",
+      "Quantum Mechanics (Basic)",
+      "Algorithms"
+    ],
+    "niceToHave": [
+      "Qiskit",
+      "C++",
+      "Academic Research Experience"
+    ],
+    "tags": [
+      "quantum",
+      "research",
+      "physics"
+    ]
+  },
+  {
+    "id": "24",
+    "title": "Data Engineering Intern",
+    "company": "Databricks",
+    "type": "internship",
+    "location": "San Francisco, CA",
+    "deadline": "2024-11-08",
+    "stipend": "$6700/mo",
+    "description": "Build and optimize large-scale data pipelines for processing and analyzing massive datasets. You'll work with Spark, Delta Lake, and other big data technologies to ensure data quality and accessibility.",
+    "requiredSkills": [
+      "Spark",
+      "Python",
+      "SQL",
+      "AWS/Azure/GCP",
+      "Data Warehousing"
+    ],
+    "niceToHave": [
+      "Scala",
+      "Kafka",
+      "Airflow",
+      "ETL Processes"
+    ],
+    "tags": [
+      "dataengineering",
+      "bigdata",
+      "cloud"
+    ]
+  },
+  {
+    "id": "25",
+    "title": "AR/VR Software Development Intern",
+    "company": "Unity Technologies",
+    "type": "internship",
+    "location": "Bellevue, WA",
+    "deadline": "2024-11-12",
+    "stipend": "$38/hr",
+    "description": "Join the team developing innovative tools and features for AR/VR experiences within the Unity ecosystem. You will work on cutting-edge immersive technologies and real-time 3D graphics.",
+    "requiredSkills": [
+      "C#",
+      "Unity Engine",
+      "3D Graphics",
+      "Software Development"
+    ],
+    "niceToHave": [
+      "VR/AR Headset Experience",
+      "Shader Programming",
+      "HCI"
+    ],
+    "tags": [
+      "arvr",
+      "unity",
+      "gaming"
+    ]
   }
 ]
