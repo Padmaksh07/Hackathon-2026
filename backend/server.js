@@ -5,7 +5,7 @@ const path = require('path');
 const { GoogleGenerativeAI } = require('@google/generative-ai');
 
 // Initialize Gemini API
-const genAI = new GoogleGenerativeAI('AIzaSyDl__VT6POE0iHZ6Dy40pF-wzcceBJLFGg');
+const genAI = new GoogleGenerativeAI('The API goes here');
 
 const app = express();
 app.use(cors());
